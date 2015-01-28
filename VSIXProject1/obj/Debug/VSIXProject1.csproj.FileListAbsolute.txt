@@ -1,0 +1,5 @@
+c:\users\andresay\documents\visual studio 2013\Projects\VSPackage5\VSIXProject1\bin\Debug\VSIXProject1.vsix
+c:\users\andresay\documents\visual studio 2013\Projects\VSPackage5\VSIXProject1\bin\Debug\extension.vsixmanifest
+c:\users\andresay\documents\visual studio 2013\Projects\VSPackage5\VSIXProject1\obj\Debug\VSIXProject1.dll
+c:\users\andresay\documents\visual studio 2013\Projects\VSPackage5\VSIXProject1\obj\Debug\VSIXProject1.pdb
+c:\users\andresay\documents\visual studio 2013\Projects\VSPackage5\VSIXProject1\obj\Debug\extension.vsixmanifest

@@ -1,0 +1,6 @@
+C:\Users\AndreSay\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\VSPackage5\1.0\\VSPackage5.dll
+C:\Users\AndreSay\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\VSPackage5\1.0\\VSPackage5.pkgdef
+C:\Users\AndreSay\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\VSPackage5\1.0\\extension.vsixmanifest
+C:\Users\AndreSay\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\VSPackage5\1.0\Templates\\MyExtFileTest.vspackage5Test
+C:\Users\AndreSay\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\VSPackage5\1.0\Templates\\VSPackage5.vsdir
+C:\Users\AndreSay\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\VSPackage5\1.0\\VSPackage5.pdb

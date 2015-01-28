@@ -1,0 +1,1 @@
+C:\Users\AndreSay\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\aaa\VSIXProject1\1.0\\extension.vsixmanifest

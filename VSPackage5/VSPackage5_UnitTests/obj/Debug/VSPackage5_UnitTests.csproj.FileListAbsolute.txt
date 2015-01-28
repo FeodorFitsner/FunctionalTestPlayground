@@ -1,0 +1,12 @@
+c:\users\andresay\documents\visual studio 2013\Projects\VSPackage5\VSPackage5\VSPackage5_UnitTests\bin\Debug\Templates\MyExtFileTest.vspackage5Test
+c:\users\andresay\documents\visual studio 2013\Projects\VSPackage5\VSPackage5\VSPackage5_UnitTests\bin\Debug\Templates\VSPackage5.vsdir
+c:\users\andresay\documents\visual studio 2013\Projects\VSPackage5\VSPackage5\VSPackage5_UnitTests\bin\Debug\VSPackage5_UnitTests.dll
+c:\users\andresay\documents\visual studio 2013\Projects\VSPackage5\VSPackage5\VSPackage5_UnitTests\bin\Debug\VSPackage5_UnitTests.pdb
+c:\users\andresay\documents\visual studio 2013\Projects\VSPackage5\VSPackage5\VSPackage5_UnitTests\bin\Debug\Microsoft.VSSDK.TestHostFramework.dll
+c:\users\andresay\documents\visual studio 2013\Projects\VSPackage5\VSPackage5\VSPackage5_UnitTests\bin\Debug\Microsoft.VSSDK.UnitTestLibrary.dll
+c:\users\andresay\documents\visual studio 2013\Projects\VSPackage5\VSPackage5\VSPackage5_UnitTests\bin\Debug\VSPackage5.dll
+c:\users\andresay\documents\visual studio 2013\Projects\VSPackage5\VSPackage5\VSPackage5_UnitTests\bin\Debug\VSPackage5.pdb
+c:\users\andresay\documents\visual studio 2013\Projects\VSPackage5\VSPackage5\VSPackage5_UnitTests\bin\Debug\Microsoft.VSSDK.TestHostFramework.pdb
+c:\users\andresay\documents\visual studio 2013\Projects\VSPackage5\VSPackage5\VSPackage5_UnitTests\obj\Debug\VSPackage5_UnitTests.csprojResolveAssemblyReference.cache
+c:\users\andresay\documents\visual studio 2013\Projects\VSPackage5\VSPackage5\VSPackage5_UnitTests\obj\Debug\VSPackage5_UnitTests.dll
+c:\users\andresay\documents\visual studio 2013\Projects\VSPackage5\VSPackage5\VSPackage5_UnitTests\obj\Debug\VSPackage5_UnitTests.pdb
